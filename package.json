@@ -1,0 +1,12 @@
+{
+    "scripts": {
+        "watch": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch",
+        "build": "npx tailwindcss -i ./src/input.css -o ./dist/output.css --minify"
+    },
+    "devDependencies": {
+        "tailwindcss": "^3.1.8"
+    },
+    "dependencies": {
+        "vazirmatn": "^33.0.3"
+    }
+}
