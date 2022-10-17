@@ -3,7 +3,7 @@
 ### [https://www.aparat.com/juza66](https://www.aparat.com/juza66)
 
 
-![پلن ساخته شده با tailwindcss و alpinejs](/assets/image/screenshot.gif)
+![پلن ساخته شده با tailwindcss و alpinejs](/assets/image/screenshot.png)
 
 
 
