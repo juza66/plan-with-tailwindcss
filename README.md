@@ -6,9 +6,7 @@
 ![پلن ساخته شده با tailwindcss و alpinejs](/assets/screenshot.gif)
 
 
--
 
-####راه های ارتباطی با من
 ##### +98921 583 1866
 ##### [https://roocket.ir/@juza66](https://roocket.ir/@juza66/)
 ##### [https://avasoft.blog.ir](https://avasoft.blog.ir)
